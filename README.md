@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabadadzeluca
-- 👀 I’m interested in starting to learn coding languages
+- 👀 I’m interested in learning coding languages
 - 🌱 I’m currently learning html&css
 - 📫 How to reach me - gabadadzeluca@gmail.com
 
