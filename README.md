@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabadadzeluca
 - 👀 I’m interested in learning coding languages
-- 🌱 I’m currently learning html&css
+- 🌱 I’m currently learning python
 - 📫 How to reach me - gabadadzeluca@gmail.com
 
 <!---
